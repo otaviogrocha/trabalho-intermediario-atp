@@ -13,7 +13,7 @@ namespace ConsoleApp5
             // Trabalho Realizado Por Otávio Rocha e Luiz Fernando Ribeiro.
 
             string destinatario;
-            double conta_corrente, poupanca, conta_cheque, limite_cheque, limite_cheque_update, saldo_conta_cheque, saque, deposito, agua, luz, telefone, conta_total, valor_outro, poupanca_tax = 0.005, poupanca_rend, transf_value, juros_especial, especial_valor = 0, saldo_especial;
+            double conta_corrente, poupanca, conta_cheque, limite_cheque, limite_cheque_update, saldo_conta_cheque, saque, deposito, agua, luz, telefone, conta_total, valor_outro, poupanca_tax = 0.005, poupanca_rend, transf_value, juros_especial, especial_valor = 0;
             int n_operacao, i, outro, count = 0;
             int numero_conta; //1: conta corrente   -   2: conta corrente com cheque especial   -   3: conta poupança 
 
