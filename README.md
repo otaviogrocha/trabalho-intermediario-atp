@@ -23,8 +23,8 @@ Algoritmo realizado utilizando C#
 
 - Uso da estrutura do-while para mostrar o menu em sequência;
 - Resolvido: conflito com o saldo real do cheque especial não mostrando o valor correto resolvido com a criação de uma terceira variável para controlar o valor de saldo + limite;
-- Verificar saldo positivo das contas antes de realizar cada operação;
-- Uso do IF para confirmar a opção selecionada pelo usuário (substituição pelo switch);
+- Verificação de saldo positivo das contas antes de realizar cada operação;
+- Uso de condicional IF para averiguar a opção selecionada pelo usuário (substituição pelo switch);
 
 
 
