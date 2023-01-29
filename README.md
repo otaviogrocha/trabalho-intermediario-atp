@@ -1,8 +1,8 @@
-#Trabalho Intermediário de Algoritmos e Técnicas de Programação
+# Trabalho Intermediário de Algoritmos e Técnicas de Programação
 
 Trabalho de Sistemas de Informação (PUC MINAS) em dupla realizado por Otávio Rocha e Luiz Fernando Ribeiro 
 
-##Criar um algoritmo que simule o funcionamento de uma caixa eletrônico
+## Criar um algoritmo que simule o funcionamento de uma caixa eletrônico
 
 - Deve possuir 3 tipos de conta:
 1. Conta corrente
