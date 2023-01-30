@@ -19,7 +19,7 @@ Trabalho de Sistemas de Informação (PUC MINAS) em dupla realizado por Otávio 
 
 - Após o intervalo de 5 operações cobrar juros do cheque especial e atualizar os rendimentos da conta poupança (taxa de juros definida pelo usuário).
 
-Algoritmo realizado utilizando C# para o display dos dados no console
+### Algoritmo realizado utilizando C# para o display dos dados no console
 
 - Uso da estrutura do-while para mostrar o menu em sequência;
 - Resolvido: conflito com o saldo real do cheque especial não mostrando o valor correto resolvido com a criação de uma terceira variável para controlar o valor de saldo + limite;
