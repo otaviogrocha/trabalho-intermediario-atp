@@ -9,7 +9,7 @@ Trabalho de Sistemas de Informação (PUC MINAS) em dupla realizado por Otávio 
 2. Conta corrente com cheque especial
 3. Conta poupança
 
-- Deve conter um menu contendo 6 operações:
+- Deve conter um menu com 6 operações:
 1. Consulta de saldo
 2. Saque
 3. Depósito
